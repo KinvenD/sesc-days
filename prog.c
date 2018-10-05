@@ -14,6 +14,6 @@ int main() {
     z-=7;
     b++;
   }
-  printf("years: %d\nweeks: %d\ndays: %d", a,b,z);
+  printf("years: %d\nweeks: %d\ndays: %d\n", a,b,z);
   return 0;
 }
