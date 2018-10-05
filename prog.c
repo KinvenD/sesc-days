@@ -6,8 +6,8 @@ int main() {
   int a = 0;
   int b = 0;
   scanf("%d", &z);
-  while(z>=356){
-    z-=356;
+  while(z>=365){
+    z-=365;
     a++;
   }
   while(z>=7){
